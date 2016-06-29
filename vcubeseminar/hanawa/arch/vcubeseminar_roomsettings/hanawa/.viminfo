@@ -1,0 +1,43 @@
+# この viminfo ファイルは Vim 7.2 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 最後の 検索パターン:
+~MSle0~/PHPIn
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q!
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/PHPIn
+?/php.ini
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+
+# ファイルマーク:
+'0  1013  0  /etc/httpd/conf/httpd.conf
+
+# ジャンプリスト (新しいものが先):
+-'  1013  0  /etc/httpd/conf/httpd.conf
+-'  904  0  /etc/httpd/conf/httpd.conf
+-'  575  0  /etc/httpd/conf/httpd.conf
+-'  1  0  /etc/httpd/conf/httpd.conf
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /etc/httpd/conf/httpd.conf
+	"	1013	0
+	^	1013	0
+	.	1012	3
+	+	1012	3
