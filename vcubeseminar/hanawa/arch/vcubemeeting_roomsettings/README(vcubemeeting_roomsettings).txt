@@ -1,5 +1,0 @@
-インストール手順
-1.Moodleのインストールしているサーバにvcubemeeting_roomsettings.zipを設置する
-2.vcubemeeting_roomsettings.zipを解凍し、フォルダごと[moodleのルートディレクトリ]/blocks　ディレクトリに設置する。
-3.ブラウザでMoodleにアクセスし、Moodleの管理者でログインする。
-4.モジュールのインストールが始まるので、画面の指示に従う。
